@@ -1,0 +1,88 @@
+body{
+    display: contents;
+}
+
+header{
+    margin: 20px;
+    float: right;
+}
+.nav-item{
+    margin-right: 15px;
+}
+
+main{
+    margin-top: 300px;
+    text-align: center;
+}
+
+footer{
+    position: absolute;
+    bottom: 0px;
+    width: 100%;
+    background-color: #f2f2f2;
+}
+.footer-line{
+    padding: 15px 30px;
+    border-bottom: 1px solid #dadce0;
+}
+.footer2{
+    display: flex;
+    justify-content: space-between;
+}
+
+.footer2 div a{
+    margin-right: 5px;
+    margin-left: 5px;
+}
+
+a{
+    color: black;
+    text-decoration: none;
+}
+a:hover{
+    color: blue;
+    text-decoration: underline;
+}
+.input-box{
+    width: 584px;
+    height: 46px;
+    border-radius: 24px;
+    border: 1px solid #dfe1e5;
+    padding-left: 40px;
+    padding-right: 40px;
+}
+.input-box:focus{
+    border: 1px solid #dfe1e5;
+}
+.input-area{
+    margin-top: 20px;
+}
+.fa-magnifying-glass{
+    position: relative;
+    left: 40px;
+    color: #9aa0a6;
+}
+.fa-microphone{
+    position: relative;
+    right: 40px;
+    color: #9aa0a6;
+}
+.button-area{
+    padding-top: 18px;
+}
+button{
+    height: 36px;
+    background-color: #f8f9fa;
+    border: #f8f9fa;
+    border-radius: 4px;
+    padding: 0 16px;
+}
+button:hover{
+    box-shadow: 0 1px 1px rgb (0 0 0 / 10%);
+    background-color: #f8f9fa;
+    border: 1px solid #dadce0;
+    color:  black;
+}
+.select-rigion{
+    margin-top: 14px;
+}
