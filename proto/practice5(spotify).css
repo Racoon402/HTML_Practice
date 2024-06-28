@@ -1,0 +1,104 @@
+body{
+    margin: 0;
+    font-family: spotify-circular, Helvetica, Arial, sans-serif;
+}
+nav{
+    height: 80px;
+    background-color: black;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    color: white;
+}
+.nav-item{
+    padding: 28px 17px;
+}
+a{
+    color: white;
+    text-decoration: none;
+}
+a:hover{
+    color: #1ed760;
+}
+main{
+    height: 968px;
+    background-color: rgb(41, 65, 171);
+    background-image: url(https://www-growth.scdn.co/static/home/bursts.svg);
+    background-size: 175%;
+    background-position: 46% 4%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.headline{
+    font-size: 146px;
+    font-weight: 900;
+    line-height: 166px;
+    position: relative;
+    left: 225px;
+    padding-bottom: 40px;
+    color:#1ed760;
+}
+.sub-headline{
+    color: #1ed760;
+    font-size: 18px;
+    line-height: 24px;
+    padding-bottom: 40px;
+    text-align: center;
+}
+.frist-line{
+    position: relative;
+    left: -2.5em;
+}
+.button-area{
+    text-align: center;
+}
+button{
+    background-color: #1ed760;
+    padding: 14px 32px;
+    border-radius: 500px;
+    color: #2941ab;
+    font-weight: 700;
+    font-size: inherit;
+    border: none;
+}
+footer{
+    height: 530px;
+    background-color: black;
+    display: flex;
+    justify-content: center;
+}
+.container{
+    display: flex;
+    
+    align-items: center;
+    flex-direction: column;
+    max-width: 1170px;
+}
+.footer-menu{
+    width: 100%;
+    margin-top: 100px;
+    display: flex;
+    justify-content: space-between;
+    height: 346px;
+}
+.footer-menus{
+    display: flex;
+}
+.footer-menu-links{
+    color: white;
+}
+.columns{
+    display: flex;
+    flex-direction: column;
+    color: white;
+    margin: 10px;
+}
+.footer-item{
+    margin-top: 10px;
+}
+.footer-line{
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+}
