@@ -3,7 +3,7 @@
 <!DOCTYPE html>
 
 <body>
-    <h1>hello! Go to</h1>
+    <h1>Go to</h1>
     <a href="https://racoon402.github.io/HTML_Practice/practice1.html">practice1</a><br/>
     <a href="https://racoon402.github.io/HTML_Practice/practice2.html">practice2</a><br/>
     <a href="https://racoon402.github.io/HTML_Practice/practice3(google).html">practice3</a><br/>
