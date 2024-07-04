@@ -3,12 +3,6 @@
 <!DOCTYPE html>
 
 <body>
-    <h1>Go to</h1>
-    <a href="https://racoon402.github.io/HTML_Practice/practice1.html">practice1</a><br/>
-    <a href="https://racoon402.github.io/HTML_Practice/practice2.html">practice2</a><br/>
-    <a href="https://racoon402.github.io/HTML_Practice/practice3(google).html">practice3</a><br/>
-    <a href="https://racoon402.github.io/HTML_Practice/practice4.html">practice4</a><br/>
-    <a href="https://racoon402.github.io/HTML_Practice/practice5(spotify).html">practice5</a><br/>
-    <a href="https://racoon402.github.io/HTML_Practice/practice6(Louisvitton).html">practice6</a><br/>
+    <a href="[https://racoon402.github.io/HTML_Practice/practice1.html](https://racoon402.netlify.app/)">Link to project</a><br/>
 </body>
 </html>
